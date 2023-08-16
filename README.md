@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PMJ Holding Next
 
-## Getting Started
+Next.js holding page for PMJ Building Services.
 
-First, run the development server:
+**Project Status:** Active
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+**Deployment:** [Vercel](https://vercel.com/pixelsmatter/pmj-holding-next)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Requirements
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Node v18.4.0](https://nodejs.org/en)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
 
-## Learn More
+- [Next.js](https://nextjs.org)
+- [React](https://reactjs.org)
+- JavaScript
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run the following from the project root directory:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1.  `npm i`
+2.  `npm run build`
+3.  `npm run dev`
+4.  Visit the relevant URL specified in the Environments section
 
-## Deploy on Vercel
+## Linting & Formatting
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Prettier](https://prettier.io)
+- [ESLint](https://eslint.org)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Standards & Practices
+
+TBD
+
+## Scripts
+
+| Command   | Description                                  |
+| --------- | -------------------------------------------- |
+| `build`   | Builds the site for production               |
+| `dev`     | Starts the local development server          |
+| `start`   | Serves production build                      |
+| `lint`    | Lints code using ESLint                      |
+| `format`  | Formats code using Prettier                  |
+
+## Environments
+
+| Name       | URL                               |
+|------------|-----------------------------------|
+| Local      | [http://localhost:3000](http://localhost:3000)        |
+| Production | [https://pmjbuildingservices.co.uk](https://pmjbuildingservices.co.uk) |
+
