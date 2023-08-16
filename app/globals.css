@@ -33,11 +33,11 @@ h6 {
 }
 
 h2 {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 a {
@@ -59,7 +59,7 @@ ol {
   clip: rect(0, 0, 0, 0);
 }
 
-@media(min-width: 576px) {
+@media (min-width: 576px) {
   h2 {
     font-size: 1.6rem;
   }
@@ -69,7 +69,7 @@ ol {
   }
 }
 
-@media(min-width: 768px) {
+@media (min-width: 768px) {
   h2 {
     font-size: 1.75rem;
   }
@@ -79,7 +79,7 @@ ol {
   }
 }
 
-@media(min-width: 992px) {
+@media (min-width: 992px) {
   h3 {
     font-size: 2.4rem;
   }
