@@ -7,6 +7,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'PMJ Building Services',
   description: 'All aspects of building work undertaken.',
+  themeColor: '#202950',
   openGraph: {
     title: 'PMJ Building Services',
     description: 'All aspects of building work undertaken.',
