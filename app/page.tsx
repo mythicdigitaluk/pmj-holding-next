@@ -96,18 +96,22 @@ export default function Home() {
               </a>
             </li>
 
-            {/* <li>
-              <a href="#" title="Instagram" target="_blank">
-              <Image
-                src="/social/instagram.svg"
-                alt="Instagram logo"
-                aria-label="Instagram logo"
-                width={70}
-                height={70}
-                className={styles.socialIcon}
-              />
+            <li>
+              <a
+                href="https://www.instagram.com/pmjbuildingservices"
+                title="Instagram"
+                target="_blank"
+              >
+                <Image
+                  src="/social/instagram.svg"
+                  alt="Instagram logo"
+                  aria-label="Instagram logo"
+                  width={70}
+                  height={70}
+                  className={styles.socialIcon}
+                />
               </a>
-            </li> */}
+            </li>
           </ul>
 
           <p className={styles.companyName}>PMJ Building Services Ltd</p>
