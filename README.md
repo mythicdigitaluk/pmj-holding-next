@@ -8,7 +8,7 @@ Next.js holding page for PMJ Building Services.
 
 ## Requirements
 
-- [Node v18.4.0](https://nodejs.org/en)
+- [Node v22.14.0](https://nodejs.org/en)
 
 ## Tech Stack
 
