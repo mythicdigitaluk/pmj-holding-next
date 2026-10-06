@@ -2,6 +2,9 @@
   "name": "pmj-holding-next",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=24.0.0 <=24.x.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,7 +13,7 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
   },
   "dependencies": {
-    "@types/node": "^22.9.0",
+    "@types/node": "^24.19.0",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
     "eslint": "^9.14.0",
