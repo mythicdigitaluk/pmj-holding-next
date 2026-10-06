@@ -2,7 +2,7 @@
 
 Next.js holding page for PMJ Building Services.
 
-**Project Status:** Active
+**Project Status:** On Hold
 
 **Deployment:** [Vercel](https://vercel.com/pixelsmatter/pmj-holding-next)
 
